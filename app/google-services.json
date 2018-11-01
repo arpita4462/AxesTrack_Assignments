@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118942437047",
+    "firebase_url": "https://axestrackassignments.firebaseio.com",
+    "project_id": "axestrackassignments",
+    "storage_bucket": "axestrackassignments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118942437047:android:8f1687354b6a504e",
+        "android_client_info": {
+          "package_name": "com.assigment.arpitapatel.axestrack_assignments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118942437047-t6qqvkvcs9cm9vim8pi731i6p7n7hs31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assigment.arpitapatel.axestrack_assignments",
+            "certificate_hash": "26ab5b7fe879cfb7b6f8ff14a99d7a7b1763e787"
+          }
+        },
+        {
+          "client_id": "118942437047-lqmrhrumpot7keu7srdlokutjck25itv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgXfnIi57hJhnXB69lIoaXxwceu-217uM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118942437047-lqmrhrumpot7keu7srdlokutjck25itv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
